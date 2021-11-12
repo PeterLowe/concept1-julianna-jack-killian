@@ -1,9 +1,11 @@
 Title
 insert team member names here
+Julianna Rowan, Jack Nulty, Killian Murphy
 
 Elevator pitch 
 Describe your game in 30 seconds or less
 ...
+
 World Background
 main differences in your game world
 ...
