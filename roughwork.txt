@@ -1,8 +1,11 @@
-Title
-insert team member names here
+Name: Killian Murphy Kenny
+
+Title: Need For Speed In Space
+
+insert team member names here: Jack Nulty, Julianna Rowan, Killian Murphy Kenny
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+Describe your game in 30 seconds or less: Need For Speed In Space is a multiplayer racing game 
 ...
 World Background
 main differences in your game world
