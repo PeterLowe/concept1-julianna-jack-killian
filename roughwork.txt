@@ -2,7 +2,7 @@ Title
 Julianna
 
 Elevator pitch 
-Describe your game in 30 seconds or less
+Rainbow Lawn -> lawnmowers in spae
 ...
 World Background
 main differences in your game world
