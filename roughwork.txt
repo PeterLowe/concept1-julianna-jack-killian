@@ -6,12 +6,13 @@ Elevator pitch
 Describe your game in 30 seconds or less
 ...
 The game will be a need for speed game but it is based in space with racing lawnmowers around the rings of saturn and on a track based on rainbow road from mario kart
+The game will be an arcade racing game with fun gravity mechanics.
 World Background
 main differences in your game world
 ...
 the main differences in this game world is the use if space and lawnmowers
 the lore behind the lawnmowers will also be a main pull of the game as it is a new and exciting ideas
-
+being in space adds to the alore of lawnmower racing in general and addd to the target market.
 Pillars
 3-4 fundementals of this game
 ...
