@@ -2,19 +2,21 @@ Title
 Julianna
 
 Elevator pitch 
-Rainbow Lawn -> lawnmowers in spae
+Need for grass -> lawnmowers in space, Lawnmowers racing on the rings of saturn
 ...
 World Background
-main differences in your game world
+In the milkway galaxy and they main racetrack is the rings of saturn
 ...
 Pillars
-3-4 fundementals of this game
+racing, speed, competition, maintained lawns
 ...
 30 second gameplay description
-describe what its like to play the essence of the game loop
+Fast pace speed game that encourages racing stratedgy with a twist on classic racing games
 ...
 Features points
-key selling points of your game
+Interesting concept mixed with good fast gameplay
 ...
 Market analysis
-similar games , typical customer, expected sales
+Mario kart competitor
+Funny game with interesting playable characters
+collectable lawnmowers
