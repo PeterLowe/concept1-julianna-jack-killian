@@ -5,18 +5,30 @@ Julianna Rowan, Jack Nulty, Killian Murphy
 Elevator pitch 
 Describe your game in 30 seconds or less
 ...
-
+The game will be a need for speed game but it is based in space with racing lawnmowers around the rings of saturn and on a track based on rainbow road from mario kart
 World Background
 main differences in your game world
 ...
+the main differences in this game world is the use if space and lawnmowers
+the lore behind the lawnmowers will also be a main pull of the game as it is a new and exciting ideas
+
 Pillars
 3-4 fundementals of this game
 ...
+1. Lawnmowers racing around a track in diffent space locations
+2. The use of gravity as a racing mechanic on the tracks
+3. A story mode on how the rouge lawnmowing community got into space in the first place
+4. The immersive backround in all of the levels with all the space themes 
 30 second gameplay description
 describe what its like to play the essence of the game loop
 ...
+The game is a fun and arcade like racer with lawnmowers in space that captures the essence of fun racing with a slower speed due to them being lawnmowers bu the intuative gravity mechanics can create momentum
 Features points
 key selling points of your game
 ...
+Lawnmowers in space and a cool space themed experience 
 Market analysis
 similar games , typical customer, expected sales
+similar games: need for speed, mario kart
+typical customer: 10-18 year olds
+expected sales: on par with if not more than usual need for speed games
