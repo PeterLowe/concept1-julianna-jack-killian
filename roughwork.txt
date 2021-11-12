@@ -24,6 +24,8 @@ Pillars
 describe what its like to play the essence of the game loop
 ...
 The game is a fun and arcade like racer with lawnmowers in space that captures the essence of fun racing with a slower speed due to them being lawnmowers bu the intuative gravity mechanics can create momentum
+The game will play like a floaty arcade racer that feels satisfying to play whe you win but extremely frustrating when you lose
+this will entice the player to try and win which could create a intense multiplayer experience
 Features points
 key selling points of your game
 ...
